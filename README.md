@@ -4,14 +4,14 @@ Covid-19 is changing the ways we travel around the cities. Governments are advis
 
 
 
-Defining the problem to solve:
+### Defining the problem to solve:
 Did CitiBike suffer a drastic ridership reduction?
 Have people been travelling less and following the Stay-at-home orders?
 Did the top Location that the riders visited changed?
 What is the busiest bike in 2020? How many times was it used?
 
 
-CitiBike Hire key information
+### CitiBike Hire key information
 CitiBike bikes are available for hire at the docking- station terminal with a bank card or contactless  payment card.
 
 Getting started is easy : simply hire a bike , ride it where you like, then return it to any of the hundreds of docking stations across NYC's city.

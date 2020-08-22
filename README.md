@@ -6,8 +6,11 @@ Covid-19 is changing the ways we travel around the cities. Governments are advis
 
 ### Defining the problem to solve:
 Did CitiBike suffer a drastic ridership reduction?
+
 Have people been travelling less and following the Stay-at-home orders?
+
 Did the top Location that the riders visited changed?
+
 What is the busiest bike in 2020? How many times was it used?
 
 
@@ -19,3 +22,30 @@ Getting started is easy : simply hire a bike , ride it where you like, then retu
 It costs $12 to access the bikes for 24hr , and the first 30 min of the journey is free. Longer journeys cost $4 for each additional 15 minutes.
 
 
+### Collecting CitiBike Data
+To download the data, I went to the official CitiBike webpage and clicked "Download" to all the 2019 files available System Data. 
+The CitiBike System provides monthly CSV files that include:
+
+Trip Duration (seconds)
+
+Start Time and Date
+
+Stop Time and Date
+
+Start Station Name
+
+End Station Name
+
+Station ID
+
+Station Lat/Long
+
+Bike ID
+
+User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
+
+Gender (Zero=unknown; 1=male; 2=female)
+
+Year of Birth
+
+The files have been processed to remove trips taken by staff, and any trips below 60 seconds in length (potentially false starts or users trying to re-dock a bike to ensure it’s secure).

@@ -1,6 +1,6 @@
 # Cycling-during-Covid-19
 ### Introduction
-Covid-19 is changing the ways we travel around the cities. Governments are advising against the use of crowded transportation except for essential travels. Those who need to go out are using more personal forms of transportation, such as bicycles, scooters and their own feet. Cycling has become one of the safest ways to travel outside as it reduces the risk of infection and keeps others safe. The objective of this project is to compare CitiBike 2019 and 2020 dataets to identify if the Covid-19 outbreak had an impact on the ridership.
+Covid-19 is changing the ways we travel around the cities. Governments are advising against the use of crowded transportation except for essential travels. Those who need to go out are using more personal forms of transportation, such as bicycles, scooters and their own feet. Cycling has become one of the safest ways to travel outside as it reduces the risk of infection and keeps others safe. The objective of this project is to compare CitiBike 2019 and 2020 datasets to identify if the Covid-19 outbreak had an impact on the ridership.
 
 
 

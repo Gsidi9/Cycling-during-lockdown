@@ -11,7 +11,7 @@ Have people been travelling less and following the Stay-at-home orders?
 
 Did the top Location that the riders visited changed?
 
-What is the busiest bike in 2020? How many times was it used?
+
 
 
 ### CitiBike Hire key information

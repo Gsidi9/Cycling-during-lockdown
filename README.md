@@ -4,9 +4,14 @@ Covid-19 is changing the ways we travel around the cities. Governments are advis
 
 
 
-### Defining the problem to solve:
+### subquestions:
 
-Did CitiBike suffer a drastic ridership reduction?
+Has the number of rideship down or stayed thesam during lockdown ?
+
+Are subscriber riding bikes during lockdwon ?
+
+Are the chnages significant, moderate or minimal ?
+
 
 Have people been travelling less and following the Stay-at-home orders?
 
